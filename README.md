@@ -32,34 +32,6 @@ yarn
    yarn
 ```
 
-### Create a Branch:
-Each collaborator must create their own branch to work on. Use the following command to create and switch to a new branch:
-#### create branch
-git branch your-branch-name
-
-#### switch or move into your branch
-git checkout your-branch-name
-#### or
-git switch your-branch-name
-
-
-### Run the Application:
-Start the development server using the following command:
-
-npm run dev
-   ```bash
-      npm run dev
-```
-#### or
-pnpm dev
-   ```bash
-      pnpm dev
-```
-#### or
-yarn run dev
-   ```bash
-      yarn run dev
-```
 The application will be running on [localhost.](http://localhost:3000/)
 
 ### Push Changes:
