@@ -10,8 +10,8 @@ To begin working on this project:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/mohammad-selim03/new-designOf-todo
-   g
+   git clone https://github.com/mohammad-selim03/new-designOf-todo.git
+   
    ```
 Install Dependencies:
 
